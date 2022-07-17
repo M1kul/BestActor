@@ -14,7 +14,7 @@ nm0848667,Akim Tamiroff,1899,1972,akim tamiroff
 nm0000199,Al Pacino,1940,,al pacino
 nm0000257,Alan Alda,1936,,alan alda
 nm0000273,Alan Arkin,1934,,alan arkin
-nm13318684,Alan Bates,1972,2002,alan bates
+nm0000869,Alan Bates,1934,2003,alan bates
 nm0000614,Alan Rickman,1946,2016,alan rickman
 nm0876138,Alan Tudyk,1971,,alan tudyk
 nm0060168,Albert Bassermann,1867,1952,albert bassermann
@@ -35,7 +35,7 @@ nm0005049,Allison Janney,1959,,allison janney
 nm0004989,Alyson Hannigan,1974,,alyson hannigan
 nm1086543,Amanda Seyfried,1985,,amanda seyfried
 nm0000821,Amitabh Bachchan,1942,,amitabh bachchan
-nm1578002,Amy Adams,1979,,amy adams
+nm0010736,Amy Adams,1974,,amy adams
 nm0001388,Amy Irving,1953,,amy irving
 nm0001496,Amy Madigan,1950,,amy madigan
 nm0688132,Amy Poehler,1971,,amy poehler
@@ -98,7 +98,7 @@ nm0001257,Ava Gardner,1922,1990,ava gardner
 nm5377144,Awkwafina,1988,,awkwafina
 nm0057363,Barbara Barrie,1931,,barbara barrie
 nm0000895,Barbara Bel Geddes,1922,2005,barbara bel geddes
-nm3541814,Barbara Harris,1945,,barbara harris
+nm0364455,Barbara Harris,1935,2018,barbara harris
 nm0001347,Barbara Hershey,1948,,barbara hershey
 nm0641966,Barbara O'Neil,1910,1980,barbara o'neil
 nm0001766,Barbara Stanwyck,1907,1990,barbara stanwyck
@@ -109,7 +109,7 @@ nm0001651,Basil Rathbone,1892,1967,basil rathbone
 nm0723968,Beah Richards,1920,2000,beah richards
 nm0833152,Beatrice Straight,1914,2001,beatrice straight
 nm0000255,Ben Affleck,1972,,ben affleck
-nm5432673,Ben Johnson,1989,,ben johnson
+nm0424565,Ben Johnson,1918,1996,ben johnson
 nm0001426,Ben Kingsley,1943,,ben kingsley
 nm0578853,Ben Mendelsohn,1969,,ben mendelsohn
 nm0001774,Ben Stiller,1965,,ben stiller
@@ -124,7 +124,7 @@ nm0000541,Bette Midler,1945,,bette midler
 nm0173993,Betty Compson,1897,1974,betty compson
 nm0094135,Beulah Bondi,1889,1981,beulah bondi
 nm0352778,Bill Hader,1978,,bill hader
-nm0000195,Bill Murray,1950,,bill murray
+nm3673242,Bill Murray,1908,1986,bill murray
 nm0631490,Bill Nighy,1949,,bill nighy
 nm0000597,Bill Pullman,1953,,bill pullman
 nm0803889,Bill Skarsgård,1990,,bill skarsgard
@@ -135,7 +135,7 @@ nm2813994,Billy Eichner,1978,,billy eichner
 nm0001078,Bing Crosby,1903,1977,bing crosby
 nm0001100,Blythe Danner,1943,,blythe danner
 nm0000137,Bo Derek,1956,,bo derek
-nm3592746,Bob Hoskins,1945,,bob hoskins
+nm0001364,Bob Hoskins,1942,2014,bob hoskins
 nm0627878,Bob Newhart,1929,,bob newhart
 nm0756114,Bob Saget,1956,2022,bob saget
 nm0201239,Bobby Darin,1936,1973,bobby darin
@@ -172,7 +172,7 @@ nm0001303,Carla Gugino,1971,,carla gugino
 nm0151919,Carol Channing,1921,2019,carol channing
 nm0001406,Carol Kane,1952,,carol kane
 nm0001479,Carole Lombard,1908,1942,carole lombard
-nm1482950,Carolyn Jones,1952,1976,carolyn jones
+nm0427700,Carolyn Jones,1930,1983,carolyn jones
 nm0000402,Carrie Fisher,1956,2016,carrie fisher
 nm0811202,Carrie Snodgress,1945,2004,carrie snodgress
 nm0004647,Carroll Baker,1931,,carroll baker
@@ -211,8 +211,8 @@ nm0932629,Chill Wills,1902,1978,chill wills
 nm0252230,Chiwetel Ejiofor,1977,,chiwetel ejiofor
 nm1631269,Chloë Grace Moretz,1997,,chloe grace moretz
 nm0001721,Chloë Sevigny,1974,,chloe sevigny
-nm3325696,Chris Cooper,1985,,chris cooper
-nm0262635,Chris Evans,1981,,chris evans
+nm0177933,Chris Cooper,1951,,chris cooper
+nm0262632,Chris Evans,1966,,chris evans
 nm1165110,Chris Hemsworth,1983,,chris hemsworth
 nm1517976,Chris Pine,1980,,chris pine
 nm0695435,Chris Pratt,1979,,chris pratt
@@ -239,7 +239,7 @@ nm0000142,Clint Eastwood,1930,,clint eastwood
 nm0654110,Clive Owen,1964,,clive owen
 nm0001458,Cloris Leachman,1926,2021,cloris leachman
 nm0545376,Colette Marchand,1925,2015,colette marchand
-nm0268199,Colin Farrell,1976,,colin farrell
+nm0268200,Colin Farrell,1938,,colin farrell
 nm0000147,Colin Firth,1960,,colin firth
 nm0341464,Corinne Griffith,1894,1979,corinne griffith
 nm0664273,Cornel Wilde,1912,1989,cornel wilde
@@ -275,7 +275,7 @@ nm0001601,David Paymer,1954,,david paymer
 nm0001710,David Schwimmer,1966,,david schwimmer
 nm0005450,David Spade,1964,,david spade
 nm0000657,David Strathairn,1949,,david strathairn
-nm2746504,Dean Jagger,1978,,dean jagger
+nm0415591,Dean Jagger,1903,1991,dean jagger
 nm0001777,Dean Stockwell,1936,2021,dean stockwell
 nm0001666,Debbie Reynolds,1932,2016,debbie reynolds
 nm0000039,Deborah Kerr,1921,2007,deborah kerr
@@ -307,21 +307,21 @@ nm0000185,Dolph Lundgren,1957,,dolph lundgren
 nm1727304,Domhnall Gleeson,1983,,domhnall gleeson
 nm0000747,Don Ameche,1908,1993,don ameche
 nm0000332,Don Cheadle,1964,,don cheadle
-nm4037370,Don Murray,1946,,don murray
+nm0614916,Don Murray,1929,,don murray
 nm0187981,Donald Crisp,1882,1974,donald crisp
 nm2255973,Donald Glover,1983,,donald glover
 nm0001656,Donna Reed,1921,1986,donna reed
 nm0947447,Donnie Yen,1963,,donnie yen
-nm0000013,Doris Day,1922,2019,doris day
+nm0206382,Doris Day,1910,1998,doris day
 nm0199268,Dorothy Dandridge,1922,1965,dorothy dandridge
 nm0540416,Dorothy Malone,1924,2018,dorothy malone
-nm0570193,Dorothy McGuire,1928,2012,dorothy mcguire
+nm0570192,Dorothy McGuire,1916,2001,dorothy mcguire
 nm0000106,Drew Barrymore,1975,,drew barrymore
 nm0001545,Dudley Moore,1935,2002,dudley moore
 nm0000163,Dustin Hoffman,1937,,dustin hoffman
 nm0425005,Dwayne Johnson,1972,,dwayne johnson
 nm0001007,Dyan Cannon,1937,,dyan cannon
-nm0003225,Ed Begley,1901,1970,ed begley
+nm0066769,Ed Begley,1864,1933,ed begley
 nm0000438,Ed Harris,1950,,ed harris
 nm1159180,Ed Helms,1974,,ed helms
 nm0943956,Ed Wynn,1886,1966,ed wynn
@@ -329,11 +329,11 @@ nm0000734,Eddie Albert,1906,2005,eddie albert
 nm0000552,Eddie Murphy,1961,,eddie murphy
 nm1519666,Eddie Redmayne,1982,,eddie redmayne
 nm0004908,Edie Falco,1963,,edie falco
-nm1721951,Edith Evans,1898,1989,edith evans
+nm0262725,Edith Evans,1888,1976,edith evans
 nm0639529,Edmond O'Brien,1915,1985,edmond o'brien
 nm0350324,Edmund Gwenn,1877,1959,edmund gwenn
 nm0646829,Edna May Oliver,1883,1942,edna may oliver
-nm0122653,Edward Burns,1968,,edward burns
+nm0122655,Edward Burns,1879,1954,edward burns
 nm0001579,Edward James Olmos,1947,,edward james olmos
 nm0001570,Edward Norton,1969,,edward norton
 nm0107281,Eileen Brennan,1932,2013,eileen brennan
@@ -348,7 +348,7 @@ nm0366946,Elizabeth Hartman,1943,1987,elizabeth hartman
 nm0001527,Elizabeth McGovern,1961,,elizabeth mcgovern
 nm0000548,Elizabeth Montgomery,1933,1995,elizabeth montgomery
 nm0647634,Elizabeth Olsen,1989,,elizabeth olsen
-nm0000072,Elizabeth Taylor,1932,2011,elizabeth taylor
+nm0852331,Elizabeth Taylor,1912,1975,elizabeth taylor
 nm0000289,Ellen Barkin,1954,,ellen barkin
 nm0000995,Ellen Burstyn,1932,,ellen burstyn
 nm0179289,Ellen Corby,1911,1999,ellen corby
@@ -366,9 +366,9 @@ nm1297015,Emma Stone,1988,,emma stone
 nm0000668,Emma Thompson,1959,,emma thompson
 nm0914612,Emma Watson,1990,,emma watson
 nm0728938,Emmanuelle Riva,1927,2017,emmanuelle riva
-nm2765191,Eric André,1983,,eric andre
+nm0028143,Eric André,1972,,eric andre
 nm0051509,Eric Bana,1968,,eric bana
-nm0000616,Eric Roberts,1956,,eric roberts
+nm1578287,Eric Roberts,1914,2010,eric roberts
 nm0832314,Eric Stonestreet,1971,,eric stonestreet
 nm0002233,Erich von Stroheim,1885,1957,erich von stroheim
 nm0000308,Ernest Borgnine,1917,2012,ernest borgnine
@@ -378,7 +378,7 @@ nm0000160,Ethan Hawke,1970,,ethan hawke
 nm0000856,Ethel Barrymore,1879,1959,ethel barrymore
 nm0914083,Ethel Waters,1896,1977,ethel waters
 nm0506405,Eugene Levy,1946,,eugene levy
-nm8773151,Eva Green,1990,,eva green
+nm1200692,Eva Green,1980,,eva green
 nm0499170,Eva Le Gallienne,1899,1991,eva le gallienne
 nm0001693,Eva Marie Saint,1924,,eva marie saint
 nm1431940,Evangeline Lilly,1979,,evangeline lilly
@@ -400,7 +400,7 @@ nm0000531,Frances McDormand,1957,,frances mcdormand
 nm0867144,Franchot Tone,1905,1968,franchot tone
 nm0277975,Frank Finlay,1926,2016,frank finlay
 nm0001449,Frank Langella,1938,,frank langella
-nm1653690,Frank Morgan,1933,2007,frank morgan
+nm0604656,Frank Morgan,1890,1949,frank morgan
 nm0000069,Frank Sinatra,1915,1998,frank sinatra
 nm0000001,Fred Astaire,1899,1987,fred astaire
 nm0002078,Frederic Forrest,1936,,frederic forrest
@@ -416,7 +416,7 @@ nm0000133,Geena Davis,1956,,geena davis
 nm2110418,Gemma Chan,1982,,gemma chan
 nm0001687,Gena Rowlands,1930,,gena rowlands
 nm0000432,Gene Hackman,1930,,gene hackman
-nm1503723,Gene Kelly,1919,1979,gene kelly
+nm0000037,Gene Kelly,1912,1996,gene kelly
 nm0516876,Gene Lockhart,1891,1957,gene lockhart
 nm0000074,Gene Tierney,1920,1991,gene tierney
 nm0000698,Gene Wilder,1933,2016,gene wilder
@@ -430,8 +430,8 @@ nm0001995,George Chakiris,1932,,george chakiris
 nm0000123,George Clooney,1961,,george clooney
 nm0001421,George Kennedy,1925,2016,george kennedy
 nm0520064,George Lopez,1961,,george lopez
-nm0761559,George Sanders,1955,,george sanders
-nm0001719,George Segal,1934,2021,george segal
+nm0001695,George Sanders,1906,1972,george sanders
+nm1034255,George Segal,1924,2000,george segal
 nm1670137,Georgie Henley,1995,,georgie henley
 nm0280242,Geraldine Fitzgerald,1913,2005,geraldine fitzgerald
 nm0656183,Geraldine Page,1924,1987,geraldine page
@@ -452,14 +452,14 @@ nm0424318,Glynis Johns,1923,,glynis johns
 nm0000443,Goldie Hawn,1945,,goldie hawn
 nm0000038,Grace Kelly,1929,1982,grace kelly
 nm0601254,Grace Moore,1898,1947,grace moore
-nm0001295,Graham Greene,1952,,graham greene
+nm0001294,Graham Greene,1904,1991,graham greene
 nm0355621,Grayson Hall,1922,1985,grayson hall
 nm0002093,Greer Garson,1904,1996,greer garson
 nm0001427,Greg Kinnear,1963,,greg kinnear
 nm0000060,Gregory Peck,1916,2003,gregory peck
 nm0001256,Greta Garbo,1905,1990,greta garbo
 nm1813221,Gugu Mbatha-Raw,1983,,gugu mbatha raw
-nm0001602,Guy Pearce,1967,,guy pearce
+nm0668933,Guy Pearce,1893,1979,guy pearce
 nm3729225,Gwendoline Christie,1978,,gwendoline christie
 nm0000569,Gwyneth Paltrow,1972,,gwyneth paltrow
 nm2794962,Hailee Steinfeld,1996,,hailee steinfeld
@@ -469,21 +469,21 @@ nm0005286,Haley Joel Osment,1988,,haley joel osment
 nm0000932,Halle Berry,1966,,halle berry
 nm2868110,Hannibal Buress,1983,,hannibal buress
 nm0751174,Harold Russell,1914,2002,harold russell
-nm0000148,Harrison Ford,1942,,harrison ford
-nm7018659,Harry Carey,1998,,harry carey
+nm0001230,Harrison Ford,1884,1957,harrison ford
+nm0002503,Harry Carey,1878,1947,harry carey
 nm0000172,Harvey Keitel,1939,,harvey keitel
 nm0567408,Hattie McDaniel,1893,1952,hattie mcdaniel
 nm0159789,Hayden Christensen,1981,,hayden christensen
 nm0005132,Heath Ledger,1979,2008,heath ledger
 nm0001287,Heather Graham,1970,,heather graham
-nm0371040,Helen Hayes,1900,1993,helen hayes
-nm0000166,Helen Hunt,1963,,helen hunt
+nm0371041,Helen Hayes,1893,1932,helen hayes
+nm0402468,Helen Hunt,1902,1996,helen hunt
 nm0000545,Helen Mirren,1945,,helen mirren
 nm0000307,Helena Bonham Carter,1966,,helena bonham carter
 nm0147147,Henry Cavill,1983,,henry cavill
 nm0000020,Henry Fonda,1905,1982,henry fonda
-nm0001794,Henry Thomas,1971,,henry thomas
-nm0871288,Henry Travers,1937,2006,henry travers
+nm3047457,Henry Thomas,1965,,henry thomas
+nm0871287,Henry Travers,1874,1965,henry travers
 nm0045968,Hermione Baddeley,1906,1986,hermione baddeley
 nm0005476,Hilary Swank,1974,,hilary swank
 nm0000456,Holly Hunter,1958,,holly hunter
@@ -503,7 +503,7 @@ nm0436706,Ida Kaminska,1899,1980,ida kaminska
 nm0579953,Idina Menzel,1971,,idina menzel
 nm0252961,Idris Elba,1972,,idris elba
 nm0001767,Imelda Staunton,1956,,imelda staunton
-nm0902894,Ingrid Bergman,1930,1995,ingrid bergman
+nm0000006,Ingrid Bergman,1915,1982,ingrid bergman
 nm0002050,Irene Dunne,1898,1990,irene dunne
 nm0000254,Isabelle Adjani,1955,,isabelle adjani
 nm0001376,Isabelle Huppert,1953,,isabelle huppert
@@ -529,7 +529,7 @@ nm0000586,Jada Pinkett Smith,1971,,jada pinkett smith
 nm2541974,Jai Courtney,1986,,jai courtney
 nm0350453,Jake Gyllenhaal,1980,,jake gyllenhaal
 nm0005157,Jake Lloyd,1989,,jake lloyd
-nm2810158,James Caan,1960,,james caan
+nm0001001,James Caan,1940,2022,james caan
 nm0000010,James Cagney,1899,1986,james cagney
 nm0000336,James Coburn,1928,2002,james coburn
 nm0168394,James Coco,1930,1987,james coco
@@ -540,22 +540,22 @@ nm0007223,James Dunn,1901,1967,james dunn
 nm0000469,James Earl Jones,1931,,james earl jones
 nm0290556,James Franco,1978,,james franco
 nm0001258,James Garner,1928,2014,james garner
-nm0322300,James Gleason,1952,,james gleason
-nm3836484,James Mason,1989,,james mason
+nm0322299,James Gleason,1882,1959,james gleason
+nm0000051,James Mason,1909,1984,james mason
 nm0564215,James McAvoy,1979,,james mcavoy
 nm0000652,James Spader,1960,,james spader
 nm0827263,James Stephenson,1889,1941,james stephenson
-nm0829462,James Stewart,1975,,james stewart
+nm0000071,James Stewart,1908,1997,james stewart
 nm0926235,James Whitmore,1921,2009,james whitmore
 nm0000249,James Woods,1947,,james woods
 nm0004937,Jamie Foxx,1967,,jamie foxx
 nm0000130,Jamie Lee Curtis,1958,,jamie lee curtis
 nm0012443,Jan Sterling,1921,2004,jan sterling
-nm0018485,Jane Alexander,1973,,jane alexander
+nm0000737,Jane Alexander,1939,,jane alexander
 nm0002034,Jane Darwell,1879,1967,jane darwell
 nm0000404,Jane Fonda,1937,,jane fonda
 nm0005137,Jane Leeves,1961,,jane leeves
-nm0005412,Jane Seymour,1951,,jane seymour
+nm0786829,Jane Seymour,1893,1956,jane seymour
 nm0943837,Jane Wyman,1917,2007,jane wyman
 nm0310980,Janet Gaynor,1906,1984,janet gaynor
 nm0001463,Janet Leigh,1927,2004,janet leigh
@@ -563,8 +563,8 @@ nm0005216,Janet McTeer,1961,,janet mcteer
 nm0840531,Janet Suzman,1939,,janet suzman
 nm0001467,Jared Leto,1971,,jared leto
 nm0000867,Jason Bateman,1969,,jason bateman
-nm1635835,Jason Lee,1978,,jason lee
-nm3358929,Jason Miller,1986,,jason miller
+nm0497485,Jason Lee,1968,,jason lee
+nm0588553,Jason Miller,1939,2001,jason miller
 nm0597388,Jason Momoa,1979,,jason momoa
 nm0001673,Jason Robards,1922,2000,jason robards
 nm0005458,Jason Statham,1967,,jason statham
@@ -577,23 +577,23 @@ nm6556377,JD McCrary,2007,,jd mccrary
 nm0000795,Jean Arthur,1900,1991,jean arthur
 nm0241121,Jean Dujardin,1972,,jean dujardin
 nm0353405,Jean Hagen,1923,1977,jean hagen
-nm0000606,Jean Reno,1948,,jean reno
+nm0719733,Jean Reno,1908,1985,jean reno
 nm0001739,Jean Simmons,1929,2010,jean simmons
 nm0002022,Jeanne Crain,1925,2003,jeanne crain
 nm0247074,Jeanne Eagels,1890,1929,jeanne eagels
 nm0075588,Jeannie Berlin,1949,,jeannie berlin
 nm0000313,Jeff Bridges,1949,,jeff bridges
-nm3151773,Jeff Chandler,1979,,jeff chandler
-nm1503653,Jeff Daniels,1981,,jeff daniels
+nm0001996,Jeff Chandler,1918,1961,jeff chandler
+nm0001099,Jeff Daniels,1955,,jeff daniels
 nm0000156,Jeff Goldblum,1952,,jeff goldblum
 nm0000098,Jennifer Aniston,1969,,jennifer aniston
 nm0000124,Jennifer Connelly,1970,,jennifer connelly
 nm0004950,Jennifer Garner,1972,,jennifer garner
 nm1617685,Jennifer Hudson,1981,,jennifer hudson
 nm0000492,Jennifer Jason Leigh,1962,,jennifer jason leigh
-nm11177846,Jennifer Jones,1976,,jennifer jones
+nm0428354,Jennifer Jones,1919,2009,jennifer jones
 nm2225369,Jennifer Lawrence,1990,,jennifer lawrence
-nm4641207,Jennifer Lopez,1983,,jennifer lopez
+nm0000182,Jennifer Lopez,1969,,jennifer lopez
 nm0000236,Jennifer Tilly,1958,,jennifer tilly
 nm2809577,Jenny Slate,1982,,jenny slate
 nm0000460,Jeremy Irons,1948,,jeremy irons
@@ -639,17 +639,17 @@ nm0197982,John Dall,1920,1971,john dall
 nm0002092,John Garfield,1913,1952,john garfield
 nm0000024,John Gielgud,1904,2000,john gielgud
 nm0000422,John Goodman,1952,,john goodman
-nm0370035,John Hawkes,1959,,john hawkes
+nm0370036,John Hawkes,1925,1998,john hawkes
 nm0002144,John Houseman,1902,1988,john houseman
 nm0000457,John Hurt,1940,2017,john hurt
 nm0001379,John Huston,1906,1987,john huston
-nm0409844,John Ireland,1942,,john ireland
+nm0409871,John Ireland,1879,1962,john ireland
 nm0434712,John Kani,1942,,john kani
 nm0000491,John Leguizamo,1964,,john leguizamo
 nm0001475,John Lithgow,1945,,john lithgow
 nm0000518,John Malkovich,1953,,john malkovich
 nm0549134,John Marley,1907,1984,john marley
-nm0590057,John Mills,1910,1936,john mills
+nm0590062,John Mills,1889,1967,john mills
 nm1056659,John Oliver,1977,,john oliver
 nm0805476,John Slattery,1962,,john slattery
 nm0000237,John Travolta,1954,,john travolta
@@ -678,7 +678,7 @@ nm0601428,Juanita Moore,1914,2014,juanita moore
 nm0002139,Judd Hirsch,1935,,judd hirsch
 nm0000179,Jude Law,1972,,jude law
 nm0001132,Judi Dench,1934,,judi dench
-nm5903330,Judith Anderson,1937,,judith anderson
+nm0000752,Judith Anderson,1897,1992,judith anderson
 nm0001114,Judy Davis,1955,,judy davis
 nm0000023,Judy Garland,1922,1969,judy garland
 nm0391062,Judy Holliday,1921,1965,judy holliday
@@ -687,13 +687,13 @@ nm0000210,Julia Roberts,1967,,julia roberts
 nm0000194,Julianne Moore,1960,,julianne moore
 nm0000267,Julie Andrews,1935,,julie andrews
 nm0001046,Julie Christie,1940,,julie christie
-nm0364915,Julie Harris,1925,2013,julie harris
+nm0364916,Julie Harris,1921,2015,julie harris
 nm0910278,Julie Walters,1950,,julie walters
 nm0000300,Juliette Binoche,1964,,juliette binoche
 nm0000496,Juliette Lewis,1973,,juliette lewis
 nm0820053,June Squibb,1929,,june squibb
 nm0377888,Justin Henry,1971,,justin henry
-nm0519043,Justin Long,1978,,justin long
+nm0519044,Justin Long,1970,,justin long
 nm0192505,Kaley Cuoco,1985,,kaley cuoco
 nm0352032,Kamal Haasan,1954,,kamal haasan
 nm0424103,Karan Johar,1972,,karan johar
@@ -711,7 +711,7 @@ nm0001684,Katharine Ross,1940,,katharine ross
 nm0001337,Katherine Heigl,1978,,katherine heigl
 nm2239702,Katherine Waterston,1980,,katherine waterston
 nm0000599,Kathleen Quinlan,1954,,kathleen quinlan
-nm6743339,Kathleen Turner,1995,,kathleen turner
+nm0000678,Kathleen Turner,1954,,kathleen turner
 nm0000870,Kathy Bates,1948,,kathy bates
 nm0668093,Katina Paxinou,1900,1973,katina paxinou
 nm0432827,Katy Jurado,1924,2002,katy jurado
@@ -729,9 +729,9 @@ nm0005392,Keri Russell,1976,,keri russell
 nm0000102,Kevin Bacon,1958,,kevin bacon
 nm0000126,Kevin Costner,1955,,kevin costner
 nm0366389,Kevin Hart,1979,,kevin hart
-nm0416673,Kevin James,1965,,kevin james
+nm0416671,Kevin James,1954,1990,kevin james
 nm0000177,Kevin Kline,1947,,kevin kline
-nm3849761,Kevin McCarthy,1965,,kevin mccarthy
+nm0002994,Kevin McCarthy,1914,2010,kevin mccarthy
 nm0000228,Kevin Spacey,1959,,kevin spacey
 nm0000662,Kiefer Sutherland,1966,,kiefer sutherland
 nm1009390,Kiera Chaplin,1982,,kiera chaplin
@@ -739,7 +739,7 @@ nm0000107,Kim Basinger,1953,,kim basinger
 nm0000326,Kim Cattrall,1956,,kim cattrall
 nm0001375,Kim Hunter,1922,2002,kim hunter
 nm0822535,Kim Stanley,1925,2001,kim stanley
-nm2240151,Kirk Douglas,1967,,kirk douglas
+nm0000018,Kirk Douglas,1916,2020,kirk douglas
 nm0000379,Kirsten Dunst,1982,,kirsten dunst
 nm0001970,Klaus Maria Brandauer,1943,,klaus maria brandauer
 nm0068338,Kristen Bell,1980,,kristen bell
@@ -764,7 +764,7 @@ nm0000059,Laurence Olivier,1907,1989,laurence olivier
 nm0582418,Laurie Metcalf,1955,,laurie metcalf
 nm0862546,Lawrence Tibbett,1896,1960,lawrence tibbett
 nm2244205,Léa Seydoux,1985,,lea seydoux
-nm0335520,Lee Grant,1931,2016,lee grant
+nm0335519,Lee Grant,1925,,lee grant
 nm0002011,Lee J. Cobb,1911,1976,lee j. cobb
 nm0001511,Lee Marvin,1924,1987,lee marvin
 nm1195855,Lee Pace,1979,,lee pace
@@ -823,7 +823,7 @@ nm0350454,Maggie Gyllenhaal,1977,,maggie gyllenhaal
 nm0573704,Maggie McNamara,1928,1978,maggie mcnamara
 nm0001749,Maggie Smith,1934,,maggie smith
 nm0991810,Mahershala Ali,1974,,mahershala ali
-nm1790890,Mako,1986,,mako
+nm0538683,Mako,1933,2006,mako
 nm0000052,Marcello Mastroianni,1924,1996,marcello mastroianni
 nm0001315,Marcia Gay Harden,1959,,marcia gay harden
 nm0001858,Mare Winningham,1959,,mare winningham
@@ -887,7 +887,7 @@ nm0926599,May Whitty,1865,1948,may whitty
 nm0748973,Maya Rudolph,1972,,maya rudolph
 nm0000212,Meg Ryan,1961,,meg ryan
 nm0000672,Meg Tilly,1960,,meg tilly
-nm1083271,Megan Fox,1986,,megan fox
+nm1504121,Megan Fox,1980,,megan fox
 nm0000154,Mel Gibson,1956,,mel gibson
 nm0000429,Melanie Griffith,1957,,melanie griffith
 nm0580479,Melina Mercouri,1920,1994,melina mercouri
@@ -905,10 +905,10 @@ nm0000323,Michael Caine,1933,,michael caine
 nm0155011,Michael Chekhov,1891,1955,michael chekhov
 nm0003817,Michael Clarke Duncan,1957,2012,michael clarke duncan
 nm0000140,Michael Douglas,1944,,michael douglas
-nm2662923,Michael Dunn,1970,,michael dunn
+nm0242692,Michael Dunn,1934,1973,michael dunn
 nm1013003,Michael Ealy,1973,,michael ealy
 nm1055413,Michael Fassbender,1977,,michael fassbender
-nm0289153,Michael J. Fox,1969,,michael j. fox
+nm0000150,Michael J. Fox,1961,,michael j. fox
 nm0689488,Michael J. Pollard,1939,2019,michael j. pollard
 nm0000474,Michael Keaton,1951,,michael keaton
 nm0503627,Michael Lerner,1941,,michael lerner
@@ -916,16 +916,16 @@ nm0001574,Michael O'Keefe,1955,,michael o'keefe
 nm0671567,Michael Peña,1976,,michael pena
 nm0714878,Michael Redgrave,1908,1985,michael redgrave
 nm0788218,Michael Shanks,1970,,michael shanks
-nm0788335,Michael Shannon,1974,,michael shannon
+nm1365985,Michael Shannon,1933,2010,michael shannon
 nm0311155,Michael V. Gazzo,1923,1995,michael v. gazzo
 nm1157358,Michelle Monaghan,1976,,michelle monaghan
 nm0000201,Michelle Pfeiffer,1958,,michelle pfeiffer
 nm0735442,Michelle Rodriguez,1978,,michelle rodriguez
-nm0931329,Michelle Williams,1980,,michelle williams
+nm0931332,Michelle Williams,1979,,michelle williams
 nm0000706,Michelle Yeoh,1962,,michelle yeoh
 nm0001682,Mickey Rooney,1920,2014,mickey rooney
 nm0000620,Mickey Rourke,1952,,mickey rourke
-nm1752760,Mike Myers,1969,,mike myers
+nm0000196,Mike Myers,1963,,mike myers
 nm0000864,Mikhail Baryshnikov,1948,,mikhail baryshnikov
 nm0005109,Mila Kunis,1983,,mila kunis
 nm0242972,Mildred Dunnock,1901,1991,mildred dunnock
@@ -946,7 +946,7 @@ nm0000899,Monica Bellucci,1964,,monica bellucci
 nm0001050,Montgomery Clift,1920,1966,montgomery clift
 nm0941253,Monty Woolley,1888,1963,monty woolley
 nm0000151,Morgan Freeman,1937,,morgan freeman
-nm0140943,Nancy Carroll,1974,,nancy carroll
+nm0007216,Nancy Carroll,1903,1965,nancy carroll
 nm0446715,Nancy Kelly,1921,1995,nancy kelly
 nm0647970,Nancy Olson,1928,,nancy olson
 nm4305463,Naomi Scott,1993,,naomi scott
@@ -956,7 +956,7 @@ nm0000204,Natalie Portman,1981,,natalie portman
 nm0000081,Natalie Wood,1938,1981,natalie wood
 nm0001447,Nathan Lane,1956,,nathan lane
 nm0000885,Ned Beatty,1937,2021,ned beatty
-nm0011247,Nick Adams,1984,,nick adams
+nm0011244,Nick Adams,1931,1968,nick adams
 nm2679917,Nick Jonas,1992,,nick jonas
 nm0000560,Nick Nolte,1941,,nick nolte
 nm0000115,Nicolas Cage,1964,,nicolas cage
@@ -983,10 +983,10 @@ nm0165101,Patricia Clarkson,1959,,patricia clarkson
 nm0172048,Patricia Collinge,1892,1974,patricia collinge
 nm0005004,Patricia Heaton,1958,,patricia heaton
 nm0623658,Patricia Neal,1926,2010,patricia neal
-nm10953357,Patrick Gallagher,1992,,patrick gallagher
+nm0302466,Patrick Gallagher,1968,,patrick gallagher
 nm0001772,Patrick Stewart,1940,,patrick stewart
 nm0000664,Patrick Swayze,1952,2009,patrick swayze
-nm0933940,Patrick Wilson,1973,,patrick wilson
+nm2004100,Patrick Wilson,1969,,patrick wilson
 nm0001157,Patty Duke,1946,2016,patty duke
 nm0566478,Patty McCormack,1945,,patty mccormack
 nm0079273,Paul Bettany,1971,,paul bettany
@@ -995,9 +995,9 @@ nm0510134,Paul Lukas,1895,1971,paul lukas
 nm0612847,Paul Muni,1895,1967,paul muni
 nm0000056,Paul Newman,1925,2008,paul newman
 nm0705152,Paul Raci,1948,,paul raci
-nm0748620,Paul Rudd,1969,,paul rudd
+nm0748621,Paul Rudd,1940,2010,paul rudd
 nm0006890,Paul Scofield,1922,2008,paul scofield
-nm5688030,Paul Walker,1987,,paul walker
+nm1960231,Paul Walker,1893,,paul walker
 nm0934902,Paul Winfield,1939,2004,paul winfield
 nm0002104,Paulette Goddard,1910,1990,paulette goddard
 nm0172604,Pauline Collins,1940,,pauline collins
@@ -1007,13 +1007,13 @@ nm0498007,Peggy Lee,1920,2002,peggy lee
 nm0939931,Peggy Wood,1892,1978,peggy wood
 nm0004851,Penélope Cruz,1974,,penelope cruz
 nm0587340,Penelope Milford,1948,,penelope milford
-nm2094667,Penny Marshall,1962,,penny marshall
+nm0001508,Penny Marshall,1943,2018,penny marshall
 nm0000592,Pete Postlethwaite,1946,2011,pete postlethwaite
 nm0000393,Peter Falk,1927,2011,peter falk
 nm0002075,Peter Finch,1916,1977,peter finch
 nm0278752,Peter Firth,1953,,peter firth
 nm0001228,Peter Fonda,1940,2019,peter fonda
-nm1588036,Peter O'Toole,1965,,peter o'toole
+nm0000564,Peter O'Toole,1932,2013,peter o'toole
 nm0000634,Peter Sellers,1925,1980,peter sellers
 nm0001780,Peter Stormare,1953,,peter stormare
 nm0001811,Peter Ustinov,1921,2004,peter ustinov
@@ -1027,7 +1027,7 @@ nm0191944,Quinn Cummings,1967,,quinn cummings
 nm4832920,Quvenzhané Wallis,2003,,quvenzhane wallis
 nm0341737,Rachel Griffiths,1968,,rachel griffiths
 nm1046097,Rachel McAdams,1978,,rachel mcadams
-nm1212051,Rachel Roberts,1978,,rachel roberts
+nm0731499,Rachel Roberts,1927,1980,rachel roberts
 nm0001838,Rachel Weisz,1970,,rachel weisz
 nm0000897,Ralph Bellamy,1904,1991,ralph bellamy
 nm0000146,Ralph Fiennes,1962,,ralph fiennes
@@ -1039,27 +1039,27 @@ nm0001537,Ray Milland,1907,1986,ray milland
 nm0005380,Ray Romano,1957,,ray romano
 nm0935653,Ray Winstone,1957,,ray winstone
 nm0557339,Raymond Massey,1896,1983,raymond massey
-nm4086321,Rebecca Ferguson,1986,,rebecca ferguson
+nm0272581,Rebecca Ferguson,1983,,rebecca ferguson
 nm2313103,Rebel Wilson,1980,,rebel wilson
 nm0000999,Red Buttons,1919,2006,red buttons
 nm0000702,Reese Witherspoon,1976,,reese witherspoon
-nm0268958,Regina Hall,1975,,regina hall
+nm0356021,Regina Hall,1970,,regina hall
 nm0005093,Regina King,1971,,regina king
 nm0000623,Rene Russo,1954,,rene russo
 nm0000250,Renée Zellweger,1969,,renee zellweger
 nm0001322,Rex Harrison,1908,1990,rex harrison
 nm0001932,Richard Barthelmess,1895,1963,richard barthelmess
-nm1726292,Richard Burton,1968,,richard burton
+nm5132603,Richard Burton,1821,1890,richard burton
 nm0228715,Richard Dix,1893,1949,richard dix
 nm0000377,Richard Dreyfuss,1947,,richard dreyfuss
 nm0001290,Richard E. Grant,1957,,richard e. grant
 nm0002070,Richard Farnsworth,1920,2000,richard farnsworth
 nm0000152,Richard Gere,1949,,richard gere
-nm7267418,Richard Harris,1948,2011,richard harris
+nm0001321,Richard Harris,1930,2002,richard harris
 nm0001395,Richard Jaeckel,1926,1997,richard jaeckel
-nm2146300,Richard Jenkins,1983,,richard jenkins
+nm0420955,Richard Jenkins,1947,,richard jenkins
 nm0144710,Richard S. Castellano,1933,1988,richard s. castellano
-nm3063493,Richard Todd,1953,,richard todd
+nm0865262,Richard Todd,1919,2009,richard todd
 nm0001847,Richard Widmark,1914,2008,richard widmark
 nm0001548,Rick Moranis,1953,,rick moranis
 nm0452860,Rinko Kikuchi,1981,,rinko kikuchi
@@ -1072,7 +1072,7 @@ nm0000134,Robert De Niro,1943,,robert de niro
 nm0232196,Robert Donat,1905,1958,robert donat
 nm0000375,Robert Downey Jr.,1965,,robert downey jr.
 nm0000380,Robert Duvall,1931,,robert duvall
-nm1707410,Robert Forster,1957,,robert forster
+nm0001233,Robert Forster,1941,2019,robert forster
 nm0347039,Robert Guillaume,1927,2017,robert guillaume
 nm0005162,Robert Loggia,1930,2015,robert loggia
 nm0000053,Robert Mitchum,1917,1997,robert mitchum
@@ -1081,17 +1081,17 @@ nm0605923,Robert Morley,1908,1992,robert morley
 nm1500155,Robert Pattinson,1986,,robert pattinson
 nm0696481,Robert Preston,1918,1987,robert preston
 nm0000602,Robert Redford,1936,,robert redford
-nm0752819,Robert Ryan,1914,2003,robert ryan
-nm0001727,Robert Shaw,1927,1978,robert shaw
+nm0752814,Robert Ryan,1896,1958,robert ryan
+nm0332058,Robert Shaw,1915,2005,robert shaw
 nm0821041,Robert Stack,1919,2003,robert stack
 nm0833865,Robert Strauss,1913,1975,robert strauss
-nm4580337,Robert Vaughn,1988,,robert vaughn
+nm0891238,Robert Vaughn,1877,,robert vaughn
 nm0000905,Roberto Benigni,1952,,roberto benigni
-nm4602837,Robin Williams,1988,,robin williams
+nm0000245,Robin Williams,1951,2014,robin williams
 nm0000705,Robin Wright,1966,,robin wright
 nm0001369,Rock Hudson,1925,1985,rock hudson
 nm0001768,Rod Steiger,1925,2002,rod steiger
-nm10093646,Roland Young,1925,2022,roland young
+nm0950019,Roland Young,1887,1953,roland young
 nm0600531,Ron Moody,1924,2015,ron moody
 nm0172903,Ronald Colman,1891,1958,ronald colman
 nm0086867,Ronee Blakley,1945,,ronee blakley
@@ -1100,7 +1100,7 @@ nm0751426,Rosalind Russell,1907,1976,rosalind russell
 nm0683253,Rosamund Pike,1979,,rosamund pike
 nm0126284,Rose Byrne,1979,,rose byrne
 nm0001683,Roseanne Barr,1952,,roseanne barr
-nm0365281,Rosemary Harris,1927,,rosemary harris
+nm2185412,Rosemary Harris,1923,2019,rosemary harris
 nm0005280,Rosie O'Donnell,1962,,rosie o'donnell
 nm0001609,Rosie Perez,1964,,rosie perez
 nm0000100,Rowan Atkinson,1955,,rowan atkinson
@@ -1116,7 +1116,7 @@ nm0404046,Ruth Hussey,1911,2005,ruth hussey
 nm1550948,Ruth Negga,1982,,ruth negga
 nm0331516,Ryan Gosling,1980,,ryan gosling
 nm0641939,Ryan O'Neal,1941,,ryan o'neal
-nm5889478,Ryan Reynolds,1986,,ryan reynolds
+nm0005351,Ryan Reynolds,1976,,ryan reynolds
 nm0056187,Sacha Baron Cohen,1971,,sacha baron cohen
 nm0451307,Saif Ali Khan,1970,,saif ali khan
 nm0000543,Sal Mineo,1939,1976,sal mineo
@@ -1127,7 +1127,7 @@ nm0000476,Sally Kirkland,1941,,sally kirkland
 nm0000161,Salma Hayek,1966,,salma hayek
 nm0006795,Salman Khan,1965,,salman khan
 nm0000385,Sam Elliott,1944,,sam elliott
-nm2800711,Sam Jaffe,1983,,sam jaffe
+nm0415488,Sam Jaffe,1891,1984,sam jaffe
 nm0005377,Sam Rockwell,1968,,sam rockwell
 nm0001731,Sam Shepard,1943,2017,sam shepard
 nm0001832,Sam Waterston,1940,,sam waterston
@@ -1160,7 +1160,7 @@ nm8630978,Shahadi Wright Joseph,2005,,shahadi wright joseph
 nm10645092,Shahrukh Khan,,,shahrukh khan
 nm0940362,Shailene Woodley,1991,,shailene woodley
 nm0002436,Shannon Elizabeth,1973,,shannon elizabeth
-nm0000232,Sharon Stone,1958,,sharon stone
+nm3270383,Sharon Stone,1953,,sharon stone
 nm0004434,Shashi Kapoor,1938,2017,shashi kapoor
 nm0001859,Shelley Winters,1920,2006,shelley winters
 nm0479471,Shia LaBeouf,1986,,shia labeouf
@@ -1189,8 +1189,8 @@ nm0001653,Stephen Rea,1946,,stephen rea
 nm0000114,Steve Buscemi,1957,,steve buscemi
 nm0136797,Steve Carell,1962,,steve carell
 nm0000430,Steve Guttenberg,1958,,steve guttenberg
-nm3930350,Steve Martin,1974,,steve martin
-nm2588606,Steve McQueen,1969,,steve mcqueen
+nm0553088,Steve Martin,1915,1991,steve martin
+nm0000537,Steve McQueen,1930,1980,steve mcqueen
 nm0000219,Steven Seagal,1952,,steven seagal
 nm3081796,Steven Yeun,1983,,steven yeun
 nm0000330,Stockard Channing,1944,,stockard channing
@@ -1221,7 +1221,7 @@ nm0000414,Teri Garr,1947,,teri garr
 nm0000159,Teri Hatcher,1964,,teri hatcher
 nm0001632,Teri Polo,1969,,teri polo
 nm0005024,Terrence Howard,1969,,terrence howard
-nm3931285,Terry Moore,1989,,terry moore
+nm0601930,Terry Moore,1929,,terry moore
 nm1024953,Terry Notary,1968,,terry notary
 nm0002128,Tess Harper,1950,,tess harper
 nm1935086,Tessa Thompson,1983,,tessa thompson
@@ -1229,7 +1229,7 @@ nm0728812,Thelma Ritter,1902,1969,thelma ritter
 nm0000942,Theodore Bikel,1924,2015,theodore bikel
 nm0327089,Thomas Gomez,1905,1971,thomas gomez
 nm0002006,Thomas Haden Church,1960,,thomas haden church
-nm0593780,Thomas Mitchell,1983,,thomas mitchell
+nm0593775,Thomas Mitchell,1892,1962,thomas mitchell
 nm1840504,Tiffany Haddish,1979,,tiffany haddish
 nm0842770,Tilda Swinton,1960,,tilda swinton
 nm0000741,Tim Allen,1953,,tim allen
@@ -1244,19 +1244,19 @@ nm0002018,Tom Conti,1941,,tom conti
 nm0183822,Tom Courtenay,1937,,tom courtenay
 nm0000129,Tom Cruise,1962,,tom cruise
 nm0000158,Tom Hanks,1956,,tom hanks
-nm0362766,Tom Hardy,1977,,tom hardy
+nm0362767,Tom Hardy,1944,2008,tom hardy
 nm1089991,Tom Hiddleston,1981,,tom hiddleston
-nm4043618,Tom Holland,1996,,tom holland
+nm0276169,Tom Holland,1943,,tom holland
 nm0001371,Tom Hulce,1953,,tom hulce
-nm0569891,Tom McGrath,1964,,tom mcgrath
+nm0569890,Tom McGrath,1940,2009,tom mcgrath
 nm0876451,Tom Tully,1908,1982,tom tully
 nm0929489,Tom Wilkinson,1948,,tom wilkinson
 nm0000169,Tommy Lee Jones,1946,,tommy lee jones
 nm0001057,Toni Collette,1972,,toni collette
-nm0193532,Tony Curtis,1937,2021,tony curtis
+nm0000348,Tony Curtis,1925,2010,tony curtis
 nm0355024,Tony Hale,1970,,tony hale
 nm0867694,Topol,1935,,topol
-nm0605079,Tracy Morgan,1968,,tracy morgan
+nm0605078,Tracy Morgan,1943,,tracy morgan
 nm0002145,Trevor Howard,1913,1988,trevor howard
 nm0001839,Tuesday Weld,1943,,tuesday weld
 nm0493341,Twiggy,1949,,twiggy
@@ -1296,17 +1296,17 @@ nm0000648,Wesley Snipes,1962,,wesley snipes
 nm0000155,Whoopi Goldberg,1955,,whoopi goldberg
 nm0004715,Will Arnett,1970,,will arnett
 nm0002071,Will Ferrell,1967,,will ferrell
-nm2289031,Will Smith,1981,2016,will smith
+nm0000226,Will Smith,1968,,will smith
 nm0000353,Willem Dafoe,1955,,willem dafoe
 nm0000904,William Bendix,1906,1964,william bendix
 nm0218131,William Demarest,1892,1983,william demarest
 nm0307326,William Gargan,1905,1979,william gargan
 nm0000513,William H. Macy,1950,,william h. macy
 nm0382676,William Hickey,1927,1997,william hickey
-nm0000034,William Holden,1918,1981,william holden
+nm0390279,William Holden,1862,1932,william holden
 nm0000458,William Hurt,1950,2022,william hurt
 nm0608440,William Moseley,1987,,william moseley
-nm8747705,William Powell,1949,2016,william powell
+nm0001635,William Powell,1892,1984,william powell
 nm0000638,William Shatner,1931,,william shatner
 nm0000213,Winona Ryder,1971,,winona ryder
 nm0000095,Woody Allen,1935,,woody allen
