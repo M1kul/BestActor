@@ -1,0 +1,51 @@
+{
+    "name":"BestActorTheme",
+    "background":"#f0f0f0",
+    "tableAccent":"#f0f0f0",
+    "dataColors":[
+      "#008fd5",
+      "#fc4f30",
+      "#e5ae38",
+      "#6d904f",
+      "#8b8b8b",
+      "#810f7c",
+      "#e85112"
+    ],
+    "visualStyles":{
+      "*":{
+        "*":{
+          "*":[
+            {
+              "fontSize":14,
+              "fontFamily":"Arial",
+              "color":{
+                "solid":{
+                  
+                }
+              }
+            }
+          ],
+          "general":[
+            {
+              "responsive":true
+            }
+          ],
+          "plotArea":[
+            {
+              "transparency":100
+            }
+          ]
+        }
+      }
+    },
+    "icons": {
+      "blueCircle": {
+        "description": "blueCircle",
+        "url":"data:image/svg+xml;utf8, <svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><circle cx='50' cy='50' r='40' stroke='%23007bff' stroke-width='4' fill='%23007bff' /></svg>"
+      },
+      "blueDiamond": {
+        "description": "blueDiamond",
+        "url":"data:image/svg+xml;utf8, <svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect width='300' height='100' fill='%23007bff' /></svg>"
+      }
+  }
+}
